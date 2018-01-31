@@ -11,3 +11,4 @@ echo 800000 > /proc/sys/fs/file-max
 echo "vm.nr_hugepages=500" >> /etc/sysctl.conf
 
 ./xmrig --help
+#./xmrig --url x:3333 --user x --pass x --threads 8 --keepalive --av 3 --max-cpu-usage=100 --cpu-priority 5 --cpu-affinity 0xFFF --retries 5 --retry-pause 5 --print-time 60
