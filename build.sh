@@ -1,3 +1,6 @@
+apt-get update
+apt-get install build-essential cmake libuv1-dev libmicrohttpd-dev gcc-7
+
 mkdir build
 cd build
 cmake .. -DCMAKE_C_COMPILER=gcc-7 -DCMAKE_CXX_COMPILER=g++-7 -DWITH_LIBCPUID=ON -DWITH_AEON=ON -DWITH_HTTPD=OFF
