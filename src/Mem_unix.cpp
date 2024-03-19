@@ -34,7 +34,7 @@
 
 
 #include "crypto/CryptoNight.h"
-#include "log/Log.h"
+
 #include "Mem.h"
 #include "Options.h"
 
