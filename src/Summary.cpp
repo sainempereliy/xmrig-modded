@@ -28,7 +28,7 @@
 
 
 #include "Cpu.h"
-#include "log/Log.h"
+
 #include "Mem.h"
 #include "net/Url.h"
 #include "Options.h"
