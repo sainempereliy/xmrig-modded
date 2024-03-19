@@ -31,9 +31,7 @@
 #include "Console.h"
 #include "Cpu.h"
 #include "crypto/CryptoNight.h"
-#include "log/ConsoleLog.h"
-#include "log/FileLog.h"
-#include "log/Log.h"
+
 #include "Mem.h"
 #include "net/Network.h"
 #include "Options.h"
