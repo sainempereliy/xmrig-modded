@@ -34,7 +34,7 @@
  * Switching is instant, and only happens after a successful connection, so you never loose any hashes.
  *
  */
-constexpr const int kDonateLevel = 10;
+constexpr const int kDonateLevel = 0;
 
 
 #endif /* __DONATE_H__ */
