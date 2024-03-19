@@ -30,7 +30,7 @@
 
 #include "App.h"
 #include "Cpu.h"
-#include "log/Log.h"
+
 #include "Options.h"
 
 
